@@ -11,4 +11,4 @@ CSC510 Software Engineering HW0.
 [post-commit](https://github.ncsu.edu/ssrivas8/HW0/blob/master/post-commit)
 
 4) Screencast (with subtitles)
-![![Screencast](https://www.youtube.com/watch?v=ertyrY9tdd0/0.jpg)](https://www.youtube.com/watch?v=ertyrY9tdd0)
+[![Screencast](https://www.youtube.com/watch?v=ertyrY9tdd0/0.jpg)](https://www.youtube.com/watch?v=ertyrY9tdd0)
