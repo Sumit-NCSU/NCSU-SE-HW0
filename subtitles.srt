@@ -1,0 +1,24 @@
+1
+00:00:00 --> 00:00:02
+Name: Sumit Srivastava | Unity ID: ssrivas8
+Demo: post-commit hooks in Git.
+
+2
+00:00:02 --> 00:00:07
+This video demonstrates the use of post-commit hooks in Git.
+
+3
+00:00:07 --> 00:00:14
+I have created a post-commit script and placed it in the hooks folder within the .git folder of my repo.
+
+4
+00:00:14 --> 00:00:18
+The script will be used to open a web page whenever a commit is made in the repo.
+
+5
+00:00:18 --> 00:00:27
+Now, when I do a commit from command line, the script will be executed and the webpage will open in Firefox.
+
+6
+00:00:27 --> 00:00:30
+Thank You.
